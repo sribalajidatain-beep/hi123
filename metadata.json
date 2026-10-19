@@ -1,0 +1,6 @@
+{
+  "name": "Tally Prime GST Automation & Reconciliation Suite",
+  "description": "AI-powered GST compliance, Tally Prime 7.0 XML exporter, bank statement reconciliation, e-Invoice & GSTR reconciler for Indian Chartered Accountants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
